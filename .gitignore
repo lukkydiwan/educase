@@ -1,9 +1,4 @@
 node_modules
 dist
 .DS_Store
-AccountSettingsPage.jsx
-LoginPage.jsx
-CreateAccountPage.jsx
-WelcomePage.jsx
-index.css
-README.md
+
