@@ -1,4 +1,4 @@
-# PopX App
+# Educase App
 
 A pixel-perfect React implementation of the PopX mobile app UI — centered on the webpage like a mobile phone frame.
 
